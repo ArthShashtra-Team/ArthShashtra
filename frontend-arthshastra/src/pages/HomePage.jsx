@@ -1,8 +1,8 @@
 import React, { useState } from 'react';
 import Navbar from '../components/Navbar';
 import HeroSection from '../components/HeroSection';
-import Chatbot from '../components/Chatbot'; // Importing the Chatbot component
-import ChatbotIcon from '../components/ChatbotIcon'; // Importing the ChatbotIcon component
+import Chatbot from '../components/Chatbot';
+import ChatbotIcon from '../components/ChatbotIcon';
 
 const HomePage = () => {
   const [showChatbot, setShowChatbot] = useState(false); // State to toggle chatbot visibility
@@ -11,6 +11,7 @@ const HomePage = () => {
     <>
       <Navbar />
       <HeroSection />
+      
       {/* Chatbot Icon */}
       <div
         style={{
@@ -24,6 +25,7 @@ const HomePage = () => {
       >
         <ChatbotIcon />
       </div>
+      
       {/* Chatbot Popup */}
       {showChatbot && <Chatbot />}
     </>

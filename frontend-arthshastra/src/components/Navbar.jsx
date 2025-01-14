@@ -1,6 +1,5 @@
 import React from 'react';
 import { Link } from 'react-router-dom';
-import logo from '../assets/arthshastra-logo.png'; // Import the logo
 
 const Navbar = () => {
   return (
@@ -8,7 +7,6 @@ const Navbar = () => {
       <div className="container mx-auto flex justify-between items-center">
         {/* Logo and App Name */}
         <div className="flex items-center">
-          <img src={logo} alt="ArthShastra Logo" className="h-10 w-10 mr-2" /> {/* Adjust size */}
           <h1 className="text-xl font-bold">ArthShastra</h1>
         </div>
 
