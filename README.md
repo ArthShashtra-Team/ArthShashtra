@@ -1,7 +1,7 @@
 ---
 # ArthShashtra: AI Powered Financial Advisor for Rural Indian Women
 
-[![ArthShashtra Logo](src/assets/arthshastra-logo.png)
+[![ArthShashtra Logo](frontend-arthshastra/src/assets/arthshastra-logo.png)
 
 ![React](https://img.shields.io/badge/React-v19.0-blue.svg) ![JavaScript](https://img.shields.io/badge/JavaScript-ES6+-yellow.svg) ![CSS](https://img.shields.io/badge/CSS-Responsive-green.svg)
 
