@@ -19,12 +19,10 @@
 ### 2. **Landing Page:**
    - **Modern SaaS Design:** A visually appealing, responsive landing page with engaging animations and advanced design.
 
-   ![Landing Page](https://via.placeholder.com/800x400)
 
 ### 3. **Financial Literacy Section:**
    - **Educational Content:** Videos, lectures, and articles tailored for rural women to understand financial concepts like savings, budgeting, and investments.
    
-   ![Financial Literacy](https://via.placeholder.com/800x400)
 
 ### 4. **AI Chatbot:**
    - **Personal Financial Assistant:** AI-powered chatbot that assists users with financial literacy terms, queries, and personalized advice.
@@ -36,7 +34,6 @@
      - **Loan & EMI Quiz**
      - **Financial Goal Setter**
 
-   ![Financial Games](https://via.placeholder.com/800x400)
 
 ### 6. **AI/ML-Based Financial Tools:**
    - **Stock Predictor:** Predict stock trends using machine learning models.
@@ -46,10 +43,23 @@
 ### 7. **Micro Investment Feature:**
    - **Investment Guidance:** Helping rural Indian women engage in micro-investments through AI-driven suggestions and access to government schemes for entrepreneurship.
 
-   ![Micro Investment](https://via.placeholder.com/800x400)
 
 ### 8. **Bank & Loan Assistance:**
    - **Bank Transactions & Loan Assistance:** Integration with banking services for loan applications and financial transactions.
    - **Payment Gateway Integration:** Secure payment gateway for seamless transactions.
 
 ---
+---
+
+## **🚀 Tech Stack**
+
+| **Technology**        | **Description**                                           |
+|-----------------------|-----------------------------------------------------------|
+| **MongoDB**            | NoSQL database for storing user data and financial records. |
+| **Express.js**         | Backend framework for handling requests and server-side logic. |
+| **React.js**           | Frontend framework for building dynamic, interactive UIs. |
+| **Node.js**            | JavaScript runtime for executing server-side code.        |
+| **Tailwind CSS**       | Utility-first CSS framework for responsive and modern styling. |
+
+---
+
